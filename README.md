@@ -1,4 +1,4 @@
-# RIAI 2020 Course Project
+# Deep-Poly based Neural Net Verifier
 
 
 
