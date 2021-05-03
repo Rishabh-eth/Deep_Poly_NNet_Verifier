@@ -1,0 +1,10 @@
+# venvs
+venvriai/
+
+# jupyter notebooks
+*.ipynb
+*.ipynb_checkpoints
+
+# cache
+*.pyc
+__pycache__
